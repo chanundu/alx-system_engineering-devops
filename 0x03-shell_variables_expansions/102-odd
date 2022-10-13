@@ -1,0 +1,2 @@
+#!/bin/bash
+/ste -d" " - - | cut -d " " -f 1
